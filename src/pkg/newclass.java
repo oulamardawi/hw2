@@ -1,10 +1,13 @@
+package pkg;
 
-public class Hw2 {
+
+public class newclass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
+
 	public static int add (int a , int b) {
 		return a+b;
 	}
@@ -20,5 +23,5 @@ public class Hw2 {
 	public static int div (int a , int b) {
 		return a/b;
 	}
-
 }
+
