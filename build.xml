@@ -85,7 +85,7 @@
 
 <fileset dir="${result.testclasses.dir}">
 
-<include name="**/*Tst.class"/>
+<include name="**/*TestCases.class"/>
 
 </fileset>
 
